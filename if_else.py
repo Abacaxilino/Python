@@ -1,7 +1,8 @@
-verificacao = input('Você gosta de bolo? ')
+verificacao = input ('Você gosta de bolo? ')
 
 if verificacao == "sim":
-    print('hmmmmmm boiola')
+    print('Que bom! Eu também gosto de bolo.')
 else:
-    print('olha o macaco')
+    print('poxa, que pena! Eu gosto de bolo.')
 
+ 
