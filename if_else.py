@@ -1,4 +1,3 @@
-
 verificacao = input ('Você gosta de bolo? ')
 
 if verificacao == "sim":
