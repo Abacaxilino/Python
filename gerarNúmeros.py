@@ -12,5 +12,17 @@ for i in range (int (qtd)):
     num = random.randint(1, 1000)
     numeros.append(num)
 
-print (f"os números gerados são {numeros}")
+print (f"os números gerados são: {numeros}")
     
+números_pares = []
+números_impares = []
+
+for n in numeros:
+    if n % 2 == 0:
+        números_pares.append(n)
+    else:
+        números_impares.append(n)
+        print (f"os nueros gerados são: {numeros}")
+print (f"os números pares são: {números_pares}")
+print (f"os números ímpares são: {números_impares}")
+
