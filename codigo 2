@@ -1,0 +1,10 @@
+nome = input("Digite seu nome: ")
+idade = input("Digite sua idade: ")
+peso = float(input("Digite seu peso: "))
+# print exibe as informações na tela 
+# input lê dado fornecido pelo usuário
+# float é usado para nº decimais 
+# int converte uma string (ou número decimal) em um número inteiro.
+print (nome)
+print (idade)
+print (peso)
